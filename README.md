@@ -17,3 +17,4 @@ Tp réalisé en Introduction à l'électronique embarquée.
 
 # Schéma du montage
 
+![Capture_decran_2020-01-21_a_16.39.31](/Users/elisa/Downloads/Capture_decran_2020-01-21_a_16.39.31.png)
