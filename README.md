@@ -1,8 +1,8 @@
 # DHT11-Temperature-Humidity-sensor
 
-Tp réalisé en Introduction à l'électronique embarquée.
-
 Membres du groupe : Victor Deyanovitch & Elisa Gougerot
+
+Tp réalisé en Introduction à l'électronique embarquée.
 
 # Objectifs
 
