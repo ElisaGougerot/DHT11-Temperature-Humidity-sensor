@@ -17,4 +17,4 @@ Tp réalisé en Introduction à l'électronique embarquée.
 
 # Schéma du montage
 
-![Schema](/Users/elisa/Downloads/Schema.png)
+![Schema](https://github.com/ElisaGougerot/DHT11-Temperature-Humidity-sensor/blob/master/Schema.png)
