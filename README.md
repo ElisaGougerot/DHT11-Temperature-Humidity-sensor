@@ -17,5 +17,4 @@ Tp réalisé en Introduction à l'électronique embarquée.
 
 # Schéma du montage
 
-![alt text](/Users/elisa/Downloads/Schema.png)
-
+![Schema](/Users/elisa/Downloads/Schema.png)
